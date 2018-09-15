@@ -14,4 +14,5 @@ OLOO 디자인 패턴을 이용한 카운터 앱
 - [x] 현재 값을 표현하는 Display 객체를 생성합니다
 - [x] 각 버튼을 누르면, Display 의 값이 변화합니다
 - [x] `button` 태그의 className은 각각 `plus`, `minus`로 합니다
-- [x] `i` 태그의 className은 각각 `plus-ico`, `minus-ico`로 합니다
+- [x] 버튼의 아이콘인 `i` 태그의 className은 각각 `plus-ico`, `minus-ico`로 합니다
+- [x] counter 값을 표시할 `span` className은 `display`로 합니다.
