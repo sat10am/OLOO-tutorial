@@ -1,8 +1,13 @@
 # OLOO 맛보기
 ---
+OLOO 디자인 패턴을 이용한 카운터 앱
+
+## Demo
+---
+[Demo](http://static.doondoony.com/oloo-counter/index.html)
 
 ## TODO
-
+---
 - [ ] 각 버튼을 생성할 수 있는 Widget 객체를 생성합니다
 - [ ] Widget 객체와 링크를 맺어 `+ 버튼`과 `- 버튼`을 생성합니다
 - [ ] `+ 버튼`, `- 버튼`에 각각의 onClick 이벤트를 추가합니다
