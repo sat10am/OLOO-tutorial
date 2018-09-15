@@ -21,7 +21,7 @@ h1 {
     text-align: center;
 }
 
-.btn {
+.btn-plus, .btn-minus {
     position: relative;
     flex-grow: 1;
     height: 100%;
