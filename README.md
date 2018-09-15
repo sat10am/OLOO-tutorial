@@ -1,9 +1,8 @@
 # OLOO 맛보기
----
+
 OLOO 디자인 패턴을 이용한 카운터 앱
 
 ## Getting Start
----
 
 별도의 프로젝트 구성은 자유롭게 해주세요! OLOO 만 써보면 됩니당 (webpack, parcel 적용 등)
 
@@ -17,12 +16,10 @@ $ git push -u origin [각자의 브랜치 이름]
 ```
 
 ## Demo
----
 
 **[Demo](http://static.doondoony.com/oloo-counter/index.html)**
 
 ## TODO
----
 
 - [x] 각 버튼을 생성할 수 있는 Widget 객체를 생성합니다
 - [x] Widget 객체와 링크를 맺어 `+ 버튼`과 `- 버튼`을 생성합니다
